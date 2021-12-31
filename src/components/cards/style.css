@@ -1,0 +1,20 @@
+.cardcontainer{
+    border-radius: 8px;
+    padding: 20px;
+    width: 100%;
+    /* width: fit-content;  */
+    background-color: white;
+}
+.subHeading{
+    color: rgb(141, 141, 141);
+    font-size: larger;
+    font-size: 15px;
+}
+.lowerHeading{
+    color: rgb(11, 86, 248);
+}
+.upperHeading{
+    font-size: x-large;
+    color: rgba(0, 0, 0, 0.849);
+
+}

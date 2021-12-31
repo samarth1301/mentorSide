@@ -1,0 +1,48 @@
+.card{
+    /* border: 1px solid rgb(204, 203, 203); */
+    border-radius: 4px;
+    padding: 20px 10px;
+}
+
+.borderRadius{
+    border-radius: 4px;
+    /* height: 60px; */
+}
+.margin2{
+    margin:18px 0 0; 
+}
+
+.fullWidth{
+    width: 100%;
+}
+
+.flexEnd{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.blue{
+    color: #0057E0;
+}
+
+.whitebg{
+    background-color: white;
+}
+
+.subContainer{
+    font-weight: 100;
+    color: gray;
+}
+.spaceBetween{
+    justify-content: space-between;
+}
+
+.flexCard{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
+
+.alignItem{
+    align-items: center;
+}
